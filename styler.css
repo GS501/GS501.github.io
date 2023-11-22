@@ -221,6 +221,7 @@ button:active {
     li a:hover:not(.active) {
         color: #000;
         background-color: inherit;
+      text-decoration: none;
     }
     
     .active {
