@@ -186,7 +186,7 @@ button:active {
         width: 100%;
     }    
     ul:hover {
-        background-color: inherit;
+        background-color: #20344e;
     }
     #account {
         float: right;
@@ -207,7 +207,7 @@ button:active {
         text-decoration: none;
     }    
     li a:hover {
-      font-size: 16px;
+      background-color: #20344e;
     }
     li a:hover:not(.active) {
         color: #000;
