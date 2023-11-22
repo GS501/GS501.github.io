@@ -20,8 +20,9 @@ body{
 }
 
 h1, h2, h3, h4, h5, h6, p {
-  margin: 0; /*The default margin annoys me*/
-} /* Kek. */
+  margin: 0; 
+	text-align: center;
+}
 #header {
   flex: 0 0 auto;
   background: #2F4C72;
