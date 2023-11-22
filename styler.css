@@ -89,13 +89,13 @@ main {
 
   .card > header {
     margin: 4px 0px 4px;
-    padding: 0 8px;
+    padding: 0 0px;
     border-bottom: 1px solid #d1d1d1;
   }
 
   .card > p {
     margin: 4px;
-    padding: 0 8px;
+    padding: 0 0px;
   }
 
 button {
