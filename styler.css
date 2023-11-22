@@ -202,6 +202,7 @@ button:active {
     .still {
         float: left;
         font-size: 15px;
+      align-items: center;
     }
 
     li a {
