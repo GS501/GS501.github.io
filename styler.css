@@ -189,9 +189,10 @@ button:active {
         overflow: hidden;
         top: 0;
         width: 100%;
+        align-items: center;
     }    
     ul:hover {
-        background-color: #20344e;
+        background-color: inherit;
     }
     #account {
         float: right;
