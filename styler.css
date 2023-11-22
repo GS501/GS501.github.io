@@ -216,6 +216,7 @@ button:active {
     }    
     li a:hover {
       background-color: #20344e;
+      text-decoration: underline;
     }
     li a:hover:not(.active) {
         color: #000;
