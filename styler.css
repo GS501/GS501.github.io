@@ -158,7 +158,8 @@ button:active {
             height: 400px;
             text-align: center;
         }
-      div {text-align:center;
+      div {
+        text-align:center;
       width:100%;
       display:block;
       margin:auto;
